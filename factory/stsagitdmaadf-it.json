@@ -1,0 +1,9 @@
+{
+	"name": "stsagitdmaadf-it",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "635b9b70-1d30-4823-b760-eda899e3ed45",
+		"tenantId": "d9662eb9-ad98-4e74-a8a2-04ed5d544db6"
+	}
+}
